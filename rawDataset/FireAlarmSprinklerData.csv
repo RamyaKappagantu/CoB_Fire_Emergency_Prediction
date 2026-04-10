@@ -1,0 +1,485 @@
+﻿ID,Assessment Date,Address,Unit # (if applicable),Is there a fire alarm system in this building serving more than one unit? (Does the smoke detector in 1 unit set off the entire building's fire alarm system),Is the building sprinklered?,Are there fire extinguishers in the building?,Is there a fire alarm system in this building?,Is the building sprinklered?2,Are there fire extinguishers in the building?2
+57,06/09/2023,155 Dunlop St W,Unit 1,,,,Yes,Yes,Yes
+58,10/09/2023,155 Dunlop st w,Na,,,,Yes,Yes,Yes
+59,10/09/2023,123,4,Yes,Yes,Yes,,,
+60,20/09/2023,201 Hurst,5,,,,,,
+61,20/09/2023,201 Hurst,7,,,,,,
+62,05/10/2023,15 cedar point drive ,24,,,,Yes,No,Yes
+63,05/10/2023,15 cedar point drive,23,,,,Yes,No,No
+64,05/10/2023,287 tiffin st ,13,,,,Yes,Yes,Yes
+65,05/10/2023,411 Bayfield Street,3A,,,,No,No,Yes
+66,10/10/2023,132 Commerce Park Drive,ABC,,,,Yes,Yes,No
+67,11/10/2023,34 cedar point drive,514,,,,No,No,Yes
+68,11/10/2023,34 cedar point drive,510,,,,No,No,Yes
+69,11/10/2023,34 Cedar Point Drive,500b,,,,No,No,Yes
+70,11/10/2023,34 cedar point drive,510,,,,No,No,Yes
+71,11/10/2023,130 bellfarm rd,13b,,,,Yes,Yes,Yes
+72,12/10/2023,106 sanders,"7,8,9",,,,No,Yes,No
+73,12/10/2023,106 Saunders ,"10,11,12",,,,No,Yes,Yes
+74,12/10/2023,106 Saunders ,"12,13",,,,No,Yes,Yes
+75,12/10/2023,64 Cedar Point Dr. ,1408,,,,No,No,No
+76,13/10/2023,431 Huronia,13,,,,No,No,Yes
+77,13/10/2023,431 huronia ,12,,,,No,No,Yes
+78,13/10/2023,431 huronia rd,10 ,,,,No,No,Yes
+79,13/10/2023,132 Commerce Park,P,,,,No,Yes,Yes
+80,13/10/2023,411 Bayfield st,A4,,,,No,Yes,Yes
+81,16/10/2023,241 Essa,6,,,,No,No,Yes
+82,16/10/2023,132 commerce park drive ,Q,,,,Yes,Yes,Yes
+83,17/10/2023,353 Anne street north,1,,,,,,
+84,18/10/2023,241 Essa Rd,3,,,,No,No,Yes
+85,17/10/2023,241 Essa rd,4,,,,No,No,No
+86,17/10/2023,241 Essa rd ,5,,,,No,No,No
+87,17/10/2023,33 alliance blvd,11,,,,No,Yes,No
+88,18/10/2023,411 Bayfield street,1a,,,,No,Yes,Yes
+89,18/10/2023,132;commerce park drive ,O,,,,No,Yes,Yes
+90,18/10/2023,231 Essa rd,O,,,,Yes,No,Yes
+91,19/10/2023,132 commerce park drive ,E,,,,Yes,Yes,Yes
+92,20/10/2023,411 Bayfield st,A-9,,,,No,Yes,Yes
+93,24/10/2023,142 Commerce Park Rd.,Excalibur Water Systems ,,,,No,Yes,Yes
+94,24/10/2023,11 Patterson,22,,,,Yes,Yes,Yes
+95,26/10/2023,132 Commerce Park Drive,N,,,,No,Yes,Yes
+96,26/10/2023,132 Commerce Park Drive,K,,,,No,Yes,Yes
+97,27/10/2023,132 Commerce Park Drive,M,,,,No,Yes,Yes
+98,30/10/2023,241 Essa road ,2,,,,No,No,Yes
+99,30/10/2023,241 essa road ,1,,,,No,No,Yes
+100,31/10/2023,411 bayfield,A5,,,,No,Yes,Yes
+101,02/11/2023,test,test,,,,Yes,No,No
+102,06/11/2023,42 Cedar Point Drive,1112A,,,,No,No,Yes
+103,06/11/2023,44 Cedar Point Drive,1112,,,,No,No,Yes
+104,07/11/2023,34 Cedar Pointe Dr. ,502,,,,Yes,No,Yes
+105,07/11/2023,34 Cedar Pointe Dr. ,500,,,,Yes,No,Yes
+106,07/11/2023,279 Yonge Street ,7,,,,Yes,No,Yes
+107,07/11/2023,580 Bayfield ,2,,,,Yes,No,Yes
+108,07/11/2023,580 Bayfield ,2,,,,No,No,Yes
+109,07/11/2023,580 bayfield,1,,,,No,No,Yes
+110,09/11/2023,test,test,,,,No,No,Yes
+111,09/11/2023,44 Cedar Point Drive,1111,,,,No,No,Yes
+112,09/11/2023,44 Cedar Pointe Drive,1108,,,,No,No,Yes
+113,09/11/2023,44 Cedar Pointe Drive ,1102,,,,No,No,Yes
+114,09/11/2023,24 Cedar Pointe Drive,24,,,,No,No,Yes
+115,11/11/2023,431 Huronia,13,,,,,,
+116,10/11/2023,431 Huronia Rd,10,,,,,,
+117,10/11/2023,494 veterans ,4,,,,No,Yes,Yes
+118,13/11/2023,289 young street,N/a,,,,Yes,Yes,Yes
+119,13/11/2023,279 Yonge st.,"2,3,4,5",,,,No,No,Yes
+120,13/11/2023,279 Yonge St.,8,,,,No,No,Yes
+121,13/11/2023,353 Duckworth,2,,,,,,
+122,13/11/2023,353 Duckworth ,1,,,,,,
+123,13/11/2023,353,3,,,,,,
+124,15/11/2023,26 Lennox st,26,,,,No,No,Yes
+125,15/11/2023,26 Lennox dr,5 ,,,,No,No,Yes
+126,15/11/2023,46 Lennox ,1,,,,No,No,Yes
+127,15/11/2023,39 Lennox dr,3,,,,No,No,Yes
+128,15/11/2023,"15 Cedar Pointe Dr Barrie, On L4N 5R7",17,,,,No,No,Yes
+129,15/11/2023,40 Lennox drive,1,,,,No,No,Yes
+130,15/11/2023,29 Lennox dr ,1,,,,No,No,Yes
+131,16/11/2023,410 Essa,First choice,,,,No,No,Yes
+132,16/11/2023,181 Livingston ,8,,,,Yes,No,Yes
+133,16/11/2023,181 Livingston ,6,,,,No,No,Yes
+134,15/11/2023,181 Livingston ,7,,,,No,No,Yes
+135,21/11/2023,test,test,,,,,,
+136,21/11/2023,test,test,,,,No,Yes,No
+137,23/11/2023,34 cedar pointe dr,515,,,,No,No,Yes
+138,23/11/2023,34 cedar pointe dr,507,,,,No,No,Yes
+139,23/11/2023,74 cedar pointe,1003,,,,No,No,Yes
+140,23/11/2023,15 cedar pointe,10,,,,,,
+141,23/11/2023,15 Cedar Pointe Dr,7&8,,,,,,
+142,23/11/2023,494 veterans dr,3,,,,,,
+143,23/11/2023,494 veterans dr,7,,,,,,
+144,23/11/2023,494 Dunlop st,10,,,,,,
+145,23/11/2023,225 ferndale south,7,,,,,,
+146,23/11/2023,"225 Ferndale Dr S #6, Barrie, ON L4N 6B9",6,,,,,,
+147,23/11/2023,15 cedar point dr,15,,,,No,No,No
+148,23/11/2023,34 cedar point,505,,,,No,No,Yes
+149,23/11/2023,74 cedar point ,1002,,,,No,No,Yes
+150,16/11/2023,106 Sauders,4,,,,No,Yes,Yes
+151,28/11/2023,110 Saunders rd,9,,,,No,Yes,Yes
+152,28/11/2023,155. Dunlop st test,3,,,,No,No,No
+153,28/11/2023,155 Dunlop Test,3,,,,,,
+154,28/11/2023,155 Dunlop test,3,,,,Yes,No,No
+155,29/11/2023,test,test,,,,No,No,No
+156,30/11/2023,Test,Test,,,,No,Yes,Yes
+157,30/11/2023,test,test,Yes,Yes,Yes,,,
+158,30/11/2023,test,test,,,,Yes,Yes,Yes
+159,01/12/2023,110 Saunders,14,,,,No,Yes,Yes
+160,05/12/2023,155 Dunlop st w (test),5,,,,No,Yes,Yes
+161,05/12/2023,test,test,,,,,,
+162,05/12/2023,test,test,,,,,,
+163,05/12/2023,test,test,,,,,,
+164,05/12/2023,123 test,1,,,,No,No,No
+165,06/12/2023,33 alliance blvd,7,,,,Yes,Yes,Yes
+166,08/12/2023,110 Saunders Road,10,,,,No,Yes,Yes
+167,11/12/2023,174 Grove Street,1,,,,,,
+168,11/12/2023,178 Grove Street,Not applicable ,,,,,,
+169,12/12/2023,241 Essa rd,4,,,,,,
+170,12/12/2023,411 bayfield,B5~7,,,,Yes,Yes,Yes
+171,12/12/2023,411 bayfield,B3,,,,No,Yes,Yes
+172,12/12/2023,132 Commerce Park Drive,N,,,,,,
+173,12/12/2023,132 Commerce Park Drive ,K,,,,,,
+174,12/12/2023,132 Commerce Park Drive ,M,,,,,,
+175,14/12/2023,279 Yonge st,5,,,,No,No,Yes
+176,14/12/2023,279 Yonge st,6,,,,No,No,Yes
+177,14/12/2023,450 Bayfield st,No,,,,Yes,Yes,Yes
+178,14/12/2023,279 Yonge st,17,,,,No,No,Yes
+179,16/12/2023,411 Bayfield Street,B12,,,,Yes,Yes,Yes
+180,16/12/2023,231 Essa road,Base building one plant,,,,,,
+181,16/12/2023,241 Essa road,2,,,,,,
+182,12/12/2023,102 Commerce Park Drive,5,,,,No,Yes,Yes
+183,12/12/2023,142 Commerce Park Drive,A & B,,,,No,Yes,Yes
+184,18/12/2023,132 Commerce Park,O,,,,,,
+185,18/12/2023,132 Commerce Park,P,,,,,,
+186,20/12/2023,660 bay view dr,12,,,,No,Yes,Yes
+187,20/12/2023,660 bay view drive,5,,,,Yes,Yes,Yes
+188,20/12/2023,563 Essa Rd.,Tim Hortons,,,,No,No,Yes
+189,20/12/2023,98 Dunlop st ,98,,,,Yes,No,Yes
+190,20/12/2023,104 Dunlop ,104,,,,Yes,No,Yes
+191,20/12/2023,106 Dunlop east,106,,,,No,No,Yes
+192,21/12/2023,12 Fairview dr ,Na ,,,,Yes,No,Yes
+193,21/12/2023,12 Fairview ,Na ,,,,Yes,No,Yes
+194,21/12/2023,28 curry,3,,,,No,Yes,Yes
+195,21/12/2023,28 curry,28,,,,No,Yes,Yes
+196,22/12/2023,132 Commerce Park dr,E,,,,,,
+197,22/12/2023,279 Yonge street,5,,,,No,No,Yes
+198,22/12/2023,279 Yonge street,2-5,,,,,,
+199,23/12/2023,35 Dunlop Street ,35,,,,No,No,Yes
+200,27/12/2023,580 Bayfield street,1,,,,,,
+201,27/12/2023,580 Bayfield street,2,,,,,,
+202,27/12/2023,580 Bayfield street ,3,,,,,,
+203,27/12/2023,477 Grove Street ,4,,,,No,No,Yes
+204,28/12/2023,431 huronia road,13,,,,,,
+205,28/12/2023,431 huronia road,12,,,,,,
+206,27/12/2023,411 Bayfield Street ,E,,,,Yes,Yes,Yes
+207,28/12/2023,411 Bayfield Street ,3A,,,,,,
+208,28/12/2023,411 Bayfield Street,4A,,,,,,
+209,28/12/2023,411 Bayfield Street,3C,,,,,,
+210,03/01/2024,54 maple,54b,,,,No,No,Yes
+211,03/01/2024,18 mulcaster,18,,,,No,No,Yes
+212,03/01/2024,140 Dunlop street east ,101,,,,Yes,Yes,Yes
+213,23/12/2023,44 Cedar Point Drive,1112,,,,,,
+214,04/01/2024,44 Cedar Point Drive,1111,,,,,,
+215,04/01/2024,30 Morrow Rd. ,1,,,,No,No,Yes
+216,04/01/2024,88 Dunlop st east,N/a,,,,Yes,No,Yes
+217,04/01/2024,55 Dunlop st east,N/a,,,,Yes,No,Yes
+218,05/01/2024,110 Saunders Road,15,,,,No,Yes,Yes
+219,05/01/2024,110 Saunders Road,10,,,,,,
+220,08/01/2024,431 Huronia rd ,4,,,,No,No,Yes
+221,08/01/2024,74 Cedar Point Drive,1005,,,,No,No,Yes
+222,08/01/2024,74 Cedar Point ,1010,,,,No,No,Yes
+223,11/01/2024,431 Yonge St.,3,,,,No,No,Yes
+224,12/01/2024,40 morrow rd,40,,,,No,No,Yes
+225,12/01/2024,28 Currie Street,13b,,,,No,Yes,No
+226,12/01/2024,28 Currie Street,13a,,,,No,Yes,No
+227,12/01/2024,461 big bay point rd,Na,,,,Yes,Yes,Yes
+228,12/01/2024,640 Yonge st Barrie ,Na,,,,No,No,Yes
+229,12/01/2024,624 Yonge st barrie,Na,,,,No,No,Yes
+230,15/01/2024,53 Ardagh rd,Na,,,,No,No,Yes
+231,15/01/2024,2 Byrne dr,Na,,,,No,No,Yes
+232,15/01/2024,92 commerce park,9,,,,No,Yes,Yes
+233,15/01/2024,150 Dunlop St,106,,,,Yes,Yes,Yes
+234,15/01/2024,130 Dunlop st E,Na,,,,No,No,No
+235,15/01/2024,150 Dunlop east ,201,,,,Yes,Yes,Yes
+236,15/01/2024,42 Maple,1,,,,No,No,Yes
+237,16/01/2024,20 Lennox,N2Y Tire Performance,,,,No,No,Yes
+238,16/01/2024,16 Lennox ,Nil,,,,Yes,No,Yes
+239,16/01/2024,10 Lennox ,Nil ,,,,No,No,Yes
+240,16/01/2024,132 Commerce Park,O,,,,,,
+241,16/01/2024,494 Veterins Dr. ,4,,,,,,
+242,16/01/2024,360 Bayfield st,First Choice Haircutters,,,,No,No,Yes
+243,15/01/2024,359 Huronia rd,None,,,,No,No,Yes
+244,17/01/2024,4 Fairview Road,1,,,,No,No,Yes
+245,17/01/2024,20 Dunlop st east,N/a,,,,Yes,No,Yes
+246,17/01/2024,39 Dunlop st e,Na,,,,Yes,No,Yes
+247,17/01/2024,353 Anne st n,1,,,,No,Yes,Yes
+248,18/01/2024,55 Mary st,0,,,,No,No,Yes
+249,18/01/2024,83 mary st,0,,,,No,No,No
+250,18/01/2024,80 Bayfield ,NA,,,,No,No,Yes
+251,18/01/2024,110 Saunders ,12,,,,No,Yes,Yes
+252,18/01/2024,151 Essa Road ,202,,,,No,No,Yes
+253,18/01/2024,110 Saunders ,6,,,,No,Yes,Yes
+254,18/01/2024,92 Commerce Park Drive,No unit # on the building and owner didn’t know. Might not have one for an address. Business was beside Unit 8. So he might be Unit 9,,,,,,
+255,09/01/2024,92 Commerce Park Drive ,8,,,,No,Yes,Yes
+256,19/01/2024,157 Essa rd,Na,,,,Yes,No,Yes
+257,22/01/2024,13 Dunlop st west,11,,,,No,No,Yes
+258,22/01/2024,92 commerce park ,2,,,,No,Yes,Yes
+259,22/01/2024,660 Bayview,6-9,,,,No,Yes,Yes
+260,22/01/2024,92 commerce park drive ,6,,,,No,Yes,Yes
+261,23/01/2024,142 Commerce Park Drive,K,,,,No,Yes,Yes
+262,24/01/2024,102 Commerce Park,11,,,,No,Yes,Yes
+263,23/01/2024,556 Bryne,11,,,,No,Yes,Yes
+264,23/01/2024,142 Commerce Park,G,,,,No,Yes,Yes
+265,24/01/2024,78 Mary St. ,0,,,,No,No,Yes
+266,24/01/2024,76 Mary St. ,n/a,,,,No,No,Yes
+267,24/01/2024,62 Mary St. ,N/a,,,,No,No,No
+268,24/01/2024, 70 Morrow road,Not,,,,Yes,No,Yes
+269,24/01/2024,12 Bryne Drive,Not,,,,Yes,Yes,Yes
+270,24/01/2024,142 commerce park ,V,,,,No,No,Yes
+271,24/01/2024,142 commerce park ,T,,,,No,Yes,Yes
+272,25/01/2024,360,6,,,,No,No,Yes
+273,25/01/2024,28 Currie st,"16,17",,,,No,Yes,Yes
+274,25/01/2024,373 Huronia road,N/a,,,,No,No,Yes
+275,25/01/2024,28 Currie Street,23A,,,,No,Yes,No
+276,25/01/2024,35 Morrow,1,,,,No,Yes,Yes
+277,25/01/2024,30 morrow,7,,,,No,Yes,Yes
+278,25/01/2024,30 morrow,8/9,,,,No,Yes,Yes
+279,25/01/2024,30 morrow,10/11,,,,No,Yes,Yes
+280,26/01/2024,331 bayfield st,3,,,,No,No,Yes
+281,26/01/2024,331 bayfield st,1,,,,No,Yes,Yes
+282,27/01/2024,411 Bayfield St. ,Moores ,,,,No,Yes,Yes
+283,27/01/2024,411 Bayfield St. ,Winners,,,,Yes,Yes,Yes
+284,29/01/2024,92 Commerce Park Dr.,1,,,,No,Yes,Yes
+285,29/01/2024,360 Bayfield St,Mucho Burrito,,,,No,No,Yes
+286,29/01/2024,360 Bayfield St,N/A,,,,No,No,Yes
+287,30/01/2024,60 Mary St,N/A,,,,No,No,Yes
+288,31/01/2024,411 huronia,10,,,,No,No,Yes
+289,31/01/2024,411 huronia,9,,,,No,No,No
+290,31/01/2024,411 Huronia rd,7,,,,No,No,Yes
+291,31/01/2024,319 Bayfield St,None,,,,Yes,No,Yes
+292,01/02/2024,124 Dunlop st,No,,,,No,No,Yes
+293,01/02/2024,5 Clapperton,A,,,,No,No,Yes
+294,02/02/2024,660 Bayview,1,,,,Yes,Yes,Yes
+295,02/02/2024,123 Dunlop st W,Speakcheasy,,,,No,No,Yes
+296,02/02/2024,13 Clapperton,N/a,,,,No,No,Yes
+297,02/02/2024,11 clapperton,A,,,,No,No,Yes
+298,02/02/2024,11 clapperton,B,,,,No,No,Yes
+299,02/02/2024,19 clapperton,N/a,,,,No,No,Yes
+300,02/02/2024,18 clapperton,N/a,,,,No,No,Yes
+301,05/02/2024,62 maple st barrie,N/A,,,,No,No,Yes
+302,05/02/2024,68 Maple st Barrie,D,,,,No,No,Yes
+303,05/02/2024,110 Saunders rd ,#3,,,,No,Yes,No
+304,05/02/2024,110 Saunders rd ,#4 ,,,,No,Yes,No
+305,05/02/2024,110 Saunders rd ,#13,,,,No,Yes,No
+306,09/05/2023,556 Bryne Drive,1&2,,,,No,Yes,Yes
+307,07/02/2024,112 Commerce Park Drive,I,,,,No,Yes,No
+308,08/02/2024,74 Cedar Point ,1014,,,,No,No,No
+309,08/02/2024,74 cedar Point,1011,,,,No,No,No
+310,08/02/2024,68 Maple,B,,,,No,No,Yes
+311,08/02/2024,68 Maple ,C,,,,No,No,Yes
+312,09/02/2024,482 Bayfield street ,3,,,,No,No,Yes
+313,09/02/2024,422 Tiffin St.,1,,,,No,No,Yes
+314,09/02/2024,10 Dunlop street East,None ,,,,No,No,Yes
+315,16/02/2024,44 Dunlop Street East,No unit,,,,No,No,No
+316,12/02/2024,25 Morrow rd ,601,,,,No,Yes,Yes
+317,12/02/2024,12 Fairview dr ,Na ,,,,,,
+318,13/02/2024,90 Ardagh Rd. ,Na,,,,No,No,Yes
+319,13/02/2024,102 commerce park,9,,,,No,Yes,Yes
+320,14/02/2024,490 Bayfield street,Na ,,,,No,No,Yes
+321,14/02/2024,144 burton avenue,Not applicable,,,,No,No,Yes
+322,14/02/2024,114 burton ave,Not applicable,,,,No,No,No
+323,14/02/2024,140 burton ave,Not applicable,,,,No,No,Yes
+324,14/02/2024,827 big bay point rd,C1,,,,No,No,Yes
+325,14/02/2024,824,C2,,,,No,No,No
+326,14/02/2024,827 big bay point rd,C7,,,,No,No,No
+327,12/02/2024,122 commerce park ,B&C ,,,,No,Yes,Yes
+328,12/02/2024,122 Commerce Park Drive,A,,,,No,Yes,Yes
+329,12/02/2024,92 Commerce Park Drive ,8,,,,,,
+330,15/02/2024,112 Commerce Park Drive ,K,,,,No,Yes,Yes
+331,18/02/2024,307 Bayfield street,N/a,,,,No,No,Yes
+332,18/02/2024,309 Bayfield street,N/a,,,,No,No,Yes
+333,18/02/2024,311 bayfield,N/a,,,,No,No,No
+334,21/02/2024,36 Morrow Rd,300,,,,Yes,No,Yes
+335,21/02/2024,28 Currie Street,4,,,,No,Yes,Yes
+336,21/02/2024,28 Currie Street,15,,,,No,Yes,Yes
+337,21/02/2024,122 commerce park drive,EFG,,,,No,Yes,Yes
+338,21/02/2024,174 Prince William Way,15,,,,No,No,Yes
+339,21/02/2024,122 Commerce Park Drive,D,,,,No,Yes,Yes
+340,22/02/2024,172 Prince William Way,13 and 14,,,,No,Yes,Yes
+341,21/02/2024,122 Commerce Park Drive,L,,,,No,Yes,Yes
+342,21/02/2024,92 Commerce Park Drive,11,,,,No,Yes,No
+343,24/02/2024,125 Dunlop street east,1,,,,No,No,Yes
+344,23/02/2024,139 Dunlop street east ,1,,,,No,No,Yes
+345,23/02/2024,10 ross,1,,,,No,No,Yes
+346,26/02/2024,112 Commerce Park Dr,DEFGH,,,,No,Yes,Yes
+347,26/02/2024,490 Mapleview Dr W,7,,,,No,No,Yes
+348,26/02/2024,502 Bayfield ,No,,,,Yes,No,Yes
+349,27/02/2024,226 Essa Rd,No,,,,No,No,Yes
+350,27/02/2024,85 Patterson Rd,1,,,,No,No,Yes
+351,28/02/2024,401 Bayfield Street,NA,,,,Yes,No,Yes
+352,28/02/2024,407 Bayfield,1 ,,,,Yes,No,Yes
+353,28/02/2024,407,2,,,,No,No,Yes
+354,01/03/2024,468 Bayfield st,Old navy,,,,No,No,Yes
+355,01/03/2024,107 Dunlop St. W,0,,,,No,No,Yes
+356,01/03/2024,506 Bayfield st,Mr sub,,,,No,No,Yes
+357,01/03/2024,506 Bayfield st,Fat bastard borrito ,,,,No,No,Yes
+358,04/03/2024,54 Maple ave,F,,,,No,No,Yes
+359,04/03/2024,28 Dunlop street East,.,,,,Yes,No,Yes
+360,04/03/2024,40 Dunlop street east ,.,,,,Yes,No,Yes
+361,04/03/2024,400 Bayview,2,,,,No,Yes,Yes
+362,04/03/2024,400 bayview,1,,,,No,Yes,Yes
+363,04/03/2024,397 Bayfield St,2,,,,No,No,Yes
+364,04/03/2024,397 Bayfield St,1,,,,Yes,Yes,Yes
+365,04/03/2024,405 Bayfield St,No,,,,No,No,Yes
+366,05/03/2024,34 Cedar point drive,509,,,,No,No,Yes
+367,05/03/2024,38 ferndale drive north,None,,,,Yes,No,Yes
+368,05/03/2024,168 Dunlop st,1,,,,No,No,Yes
+369,05/03/2024,19 Ross st ,1,,,,No,No,Yes
+370,05/03/2024,34 ross,1,,,,No,No,Yes
+371,05/03/2024,49 Mary ,1,,,,No,No,Yes
+372,06/03/2024,170 Prince William Way,3,,,,No,Yes,Yes
+373,06/03/2024,170 Prince William way,4,,,,No,Yes,No
+374,06/03/2024,355 Bayfield,5,,,,No,No,Yes
+375,05/03/2024,355 Bayfield,5,,,,No,No,Yes
+376,06/03/2024,355 Bayfield,5,,,,No,No,Yes
+377,06/03/2024,27 Mapleview dr w ,1,,,,Yes,No,Yes
+378,06/03/2024,33 Mapleview dr,C4,,,,No,Yes,Yes
+379,06/03/2024,33 Mapleview dr,6,,,,No,Yes,Yes
+380,06/03/2024,490 Mapleview west,1,,,,No,No,Yes
+381,06/03/2024,490 Mapleview west,5,,,,No,No,Yes
+382,07/03/2024,68 maple ave,3,,,,,,
+383,07/03/2024,157 Essa ,Na,,,,,,
+384,11/03/2024,649  street ,9,,,,No,No,Yes
+385,11/03/2024,649 Yonge st,10,,,,No,No,Yes
+386,11/03/2024,649 Yonge street,3,,,,No,Yes,Yes
+387,12/03/2024,26 Lenox ,N/A,,,,No,No,No
+388,05/03/2024,26 Lennox Dr,0,,,,,,
+389,12/03/2024,29 Lennox Dr,All,,,,,,
+390,12/03/2024,133 DunlopSt East,0,,,,No,No,Yes
+391,12/03/2024,137 Dunlop St East,0,,,,Yes,No,Yes
+392,12/03/2024,490 Mapleview Dr. W.,2,,,,No,No,Yes
+393,13/03/2024,190 minets point ,7,,,,No,No,Yes
+394,14/03/2024,73 Patterson,N/A,,,,No,No,Yes
+395,14/03/2024,81 Patterson,Na,,,,No,No,Yes
+396,14/03/2024,63 marry st ,Na ,No,No,Yes,,,
+397,14/03/2024,285 Dunlop st,1,,,,No,No,Yes
+398,15/03/2024,87 Patterson Road,None,,,,No,No,Yes
+399,15/03/2024,68 Maple ave ,D,,,,,,
+400,16/03/2024,61 Bryne Dr.,NA,,,,Yes,Yes,Yes
+401,18/03/2024,26 morrow rd,1,No,No,Yes,,,
+402,18/03/2024,500 Huronia Rd ,204,,,,Yes,Yes,Yes
+403,18/03/2024,500 Huronia Rd,206,,,,Yes,Yes,Yes
+404,18/03/2024,500 Huronia Rd,105 ,,,,Yes,Yes,Yes
+405,19/03/2024,190 minets point,Na,,,,No,No,Yes
+406,19/03/2024,190 minets point,8,,,,No,No,Yes
+407,19/03/2024,47 Dunlop East,47 Dunlop st east,,,,No,No,Yes
+408,21/03/2024,15 morrow rd,1,,,,No,No,Yes
+409,21/03/2024,15 Morrow Rd,.,,,,Yes,Yes,Yes
+410,23/03/2024,237 Mapleview dr east ,#5,,,,No,Yes,Yes
+411,23/03/2024,411 Huronia rd ,#12,,,,No,No,Yes
+412,25/03/2024,418 Blake st,No,,,,No,No,Yes
+413,25/03/2024,380 Mapleview Dr W,NA,,,,Yes,Yes,Yes
+414,26/03/2024,68 Maple ave,B- Rexall Pharmacy ,,,,,,
+415,26/03/2024,158 Essa road,N/A,,,,No,No,Yes
+416,26/03/2024,555 Mapleview ,5,,,,No,Yes,Yes
+417,26/03/2024,555 Mapleview,6,,,,No,Yes,Yes
+418,26/03/2024,91 Paterson road,91,,,,Yes,No,Yes
+419,26/03/2024,555 Mapleview,8 9 10,,,,Yes,Yes,Yes
+420,26/03/2024,225 Mapleview dr.,Unit 4,,,,Yes,Yes,Yes
+421,05/03/2024,555 Mapleview Drive West,Mapleview Family Dentistry,,,,No,Yes,Yes
+422,11/03/2024,555 Mapleview Drive West,Regions - No unit number,,,,No,Yes,Yes
+423,05/03/2024,555 Mapleview Drive West,203,,,,No,Yes,No
+424,27/03/2024,170 Prince William Way,6,,,,Yes,Yes,Yes
+425,28/03/2024,170 Prince William Way,11,,,,No,Yes,Yes
+426,28/03/2024,71 Bryne drive,Rona ,,,,Yes,Yes,Yes
+427,28/03/2024,11 Essa Rd  Salvation Army Thrift Store,No,,,,No,No,Yes
+428,28/03/2024,8 Essa Rd,  No,,,,No,No,Yes
+429,28/03/2024,44 Dunlop Street,No unit ,,,,,,
+430,28/03/2024,418 Blake st,No,,,,No,No,Yes
+431,01/04/2024,237 Mapleview dr east ,12,,,,No,Yes,Yes
+432,02/04/2024,5 bellfarm rd,1+2,,,,Yes,Yes,Yes
+433,02/04/2024,5 bellfarm rd ,5,,,,No,Yes,Yes
+434,30/03/2024,19 Mapleview Drive West,A,,,,No,No,Yes
+435,30/03/2024,19 Mapleview Drive West,B,,,,No,No,Yes
+436,30/03/2024,10 Mapleview Drive West,C,,,,No,No,Yes
+437,04/04/2024,1 ferndale north,0,,,,No,No,Yes
+438,04/04/2024,68 Maple,4 /D Retech repairs,,,,,,
+439,04/04/2024,30 Anne St. South,N/A,,,,No,No,Yes
+440,04/04/2024,5 ferndale drive,0,,,,No,No,Yes
+441,04/04/2024,62 Maple,N/A,,,,,,
+442,04/04/2024,56 Dunlop St E,N/A,,,,No,No,Yes
+443,04/04/2024,82 Dunlop St E,N/A,,,,No,Yes,Yes
+444,04/04/2024,68 Dunlop St E ,N/A,,,,No,No,Yes
+445,04/04/2024,70 Dunlop St E,N/A,,,,No,No,Yes
+446,04/04/2024,88 Dunlop St W,N/A,,,,No,No,Yes
+447,05/04/2024,490 Mapleview Dr W,6,,,,No,No,Yes
+448,05/04/2024,490 Mapleview Dr W,8,,,,No,No,Yes
+449,08/04/2024,179 live eight way,Star bucks,,,,No,No,Yes
+450,10/04/2024,565 Yonge st,4,,,,No,No,Yes
+451,11/04/2024,565 Yonge st,Na,,,,No,No,Yes
+452,11/04/2024,28 Essa rd,1,,,,No,No,No
+453,04/04/2024,38 Ferndale dr north,Na ,,,,No,No,Yes
+454,11/04/2024,42 Ferndale dr n,A,,,,No,No,Yes
+455,11/04/2024,420 Essa ,N,,,,No,No,Yes
+456,11/04/2024,420 Essa rd ,3,,,,No,No,Yes
+457,11/04/2024,420 Essa rd ,1,,,,No,No,Yes
+458,11/04/2024,5 bell farm rd ,Unit 7,,,,No,Yes,No
+459,11/04/2024,159 Live eight way,N/a,,,,No,No,Yes
+460,11/04/2024,149 Live eight way,N/A,,,,Yes,Yes,Yes
+461,11/04/2024,41 maple ave,1,,,,No,No,Yes
+462,12/04/2024,64 Dunlop St E ,N/A,,,,No,No,Yes
+463,12/04/2024,54 Maple Ave,F,,,,,,
+464,12/04/2024,80 Mary St,1,No,No,Yes,,,
+465,13/04/2024,410 Essa Rd,A1-A,,,,No,No,Yes
+466,15/04/2024,454 Bayfield st,H1,,,,No,No,Yes
+467,15/04/2024,454 Bayfield st.,2,,,,No,No,Yes
+468,15/04/2024,454  Bayfield st ,3,,,,No,No,Yes
+469,15/04/2024,175 Essa Rd,N/a,,,,Yes,No,Yes
+470,15/04/2024,556 Bryne ,1&2,,,,,,
+471,15/04/2024,79 Dunlop St W.,C,,,,No,No,Yes
+472,15/04/2024,112 commerce park dr,I,,,,,,
+473,15/04/2024,25 Dunlop St W.,No,,,,No,No,Yes
+474,15/04/2024,13 Dunlop St W,None,,,,,,
+475,15/04/2024,180 Innisfil street ,1,,,,No,No,Yes
+476,15/04/2024,52 Bayfield St,None,,,,Yes,Yes,Yes
+477,16/04/2024,420 Essa,Shoppers,,,,No,No,Yes
+478,16/04/2024,48 Alliance Blvd ,B7,,,,No,No,Yes
+479,16/04/2024,48 alliance blvd ,B1,,,,No,No,Yes
+480,16/04/2024,48 alliance blvd,B8,,,,No,No,Yes
+481,16/04/2024,375 Mapleview Dr W,Na,,,,No,No,Yes
+482,16/04/2024,565 Yonge st,3,,,,No,No,No
+483,16/04/2024,505 Bryne Dr,NA,,,,No,No,Yes
+484,16/04/2024,550 Bryne,NA,,,,No,No,Yes
+485,16/04/2024,550 Bryne Dr,NA,,,,No,No,Yes
+486,17/04/2024,80 Dunlop st east,Main floor,,,,No,Yes,Yes
+487,17/04/2024,347 Bayfield ,Na,,,,No,No,Yes
+488,17/04/2024,347 Bayfield ,Na,,,,No,No,Yes
+489,17/04/2024,347 Bayfield ,Na,,,,No,No,Yes
+490,18/04/2024,53 Bayfield Street,RBC,,,,No,No,Yes
+491,18/04/2024,5 Collier St. ,RBC ,,,,No,No,Yes
+492,18/04/2024,21 Essa Rd,1,,,,No,No,Yes
+493,18/04/2024,192 Essa Road,0,,,,No,No,Yes
+494,18/04/2024,27 Mapleview dr west,1,,,,,,
+495,18/04/2024,33 Mapleview Drive West,6,,,,,,
+496,18/04/2024,33 Mapleview Drive West,4,,,,,,
+497,18/04/2024,490 Mapleview Drive West ,1,,,,,,
+498,18/04/2024,490 Mapleview Drive West ,5,,,,,,
+499,23/04/2024,364 St Vincent street,E9,,,,No,Yes,Yes
+500,23/04/2024,364 st Vincent street,E8,,,,No,Yes,Yes
+501,23/04/2024,160 saunders,3 & 4,,,,No,Yes,Yes
+502,23/04/2024,160 saunders ,2,,,,No,Yes,Yes
+503,23/04/2024,364 st Vincent street,E1,,,,No,Yes,Yes
+504,23/04/2024,411 Huronia rd,12,,,,,,
+505,24/04/2024,18 cundles rd e,4,,,,No,No,Yes
+506,25/04/2024,410 ESSA rd,A1C,,,,No,No,Yes
+507,26/04/2024,129 Dunlop St E,N/A,,,,No,No,Yes
+508,26/04/2024,31 Dunlop St E,N/A,,,,Yes,Yes,Yes
+509,26/04/2024,102 Byrne Drive ,9,,,,,,
+510,26/04/2024,26 Lennox Drive,0,,,,,,
+511,26/04/2024,26 Lennox Drive,5 ,,,,,,
+512,26/04/2024,29 Lennox Drive ,1-5,,,,,,
+513,26/04/2024,133 Dunlop Street East,1,,,,,,
+514,26/04/2024,137 Dunlop Street East,1,,,,,,
+515,29/04/2024,1 ferndale dr n,1,,,,No,No,Yes
+516,29/04/2024,54 Maple Ave. ,F,,,,,,
+517,30/04/2024,18 cundles east,3,,,,No,No,Yes
+518,02/05/2024,29 Bradford st,Unit 1,,,,No,No,Yes
+519,06/05/2024,49 Essa rd,1,,,,Yes,No,Yes
+520,30/04/2024,22 Commerce Park Drive,Na,,,,No,Yes,Yes
+521,30/04/2024,22 Commerce Park Drive,Na,,,,No,Yes,No
+522,30/04/2024,22 commerce park drive,Treadmill Factory,,,,No,Yes,Yes
+523,30/04/2024,22 Commerce Park Drive,Na,,,,No,Yes,Yes
+524,06/05/2024,41 maple ave,1,,,,,,
+525,06/05/2024,81 Patterson Rd,N,,,,,,
+526,06/05/2024,73 Patterson ,N,,,,,,
+527,07/05/2024,500 Huronia Road,Mind to Muscle,,,,,,
+528,07/05/2024,500 Huronia road,DYE and Russell Law,,,,,,
+529,07/05/2024,500 Huronia Road,Barrie LASIK Centre,,,,,,
+530,11/05/2024,8 EssaRd,None,,,,,,
+531,13/05/2024,150 park place,Milestones ,,,,Yes,No,Yes
+532,13/05/2024,130 Bayview dr,Spoon and fork,,,,Yes,No,Yes
+533,13/05/2024,140 parkplace blvd,Lonestar,,,,Yes,No,Yes
+534,15/05/2024,45 Bradford street ,Na,,,,No,No,Yes
+535,16/05/2024,112 Commerce Park,I,,,,,,
+536,29/05/2024,110 Saunders ,18,,,,No,Yes,Yes
+537,22/05/2024,505 Bryne,Toppers,,,,,,
+538,23/05/2024,505 Bryne,Bryne Cleaners,,,,,,
+539,24/05/2024,505 Bryne,D,,,,,,
+540,23/05/2024,375 Mapleview W,NA,,,,,,

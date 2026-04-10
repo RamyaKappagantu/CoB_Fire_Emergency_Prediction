@@ -1,0 +1,30 @@
+<div class="container mt-5">
+  <div class="row justify-content-center">
+    <div class="col-md-6">
+      <div class="card">
+        <div class="card-header text-center">
+          <h3>Add User</h3>
+        </div>
+        <div class="card-body">
+          <form #addUserForm="ngForm" (ngSubmit)="addUser(addUserForm.value)">
+            <div class="form-group">
+              <label for="username">Username</label>
+              <input type="text" id="username" name="username" ngModel class="form-control" placeholder="Enter username" required />
+            </div>
+            <br>
+            <div class="form-group">
+              <label for="password">Password</label>
+              <input type="password" id="password" name="password" ngModel class="form-control" placeholder="Enter password" required />
+            </div>
+            <div class="form-group">
+              <label for="is_admin" style="margin: 10px;">Is Admin</label>
+              <input type="checkbox" id="is_admin" style="margin: 10px;" name="is_admin" ngModel />
+            </div>
+            <button type="submit" class="btn btn-primary btn-block">Add User</button>
+            <a href="/home" class="btn btn-danger btn-block" style="margin-left: 10px;">Cancel</a>
+          </form>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>

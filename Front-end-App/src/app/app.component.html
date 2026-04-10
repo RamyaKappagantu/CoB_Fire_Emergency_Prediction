@@ -1,0 +1,32 @@
+<div class="app-container">
+    <div *ngIf="isLoggedIn">
+      <!-- Toolbar -->
+      <div class="toolbar">
+        <img width="100" alt="City-of-Barrie-logo" src="../assets/City-of-Barrie-logo.png" />
+        <span class="toolbar-title">Real-time Emergency Prediction Supporting Tool</span>
+      </div>
+      <!-- Sidebar and Main Content -->
+      <div class="content-container">
+        <div class="sidebar">
+          <div class="sidebar-item" routerLink="/home" routerLinkActive="active">
+            <i class="fas fa-home"></i>
+          </div>
+          <div class="sidebar-item" routerLink="/dashboard" >
+            <i class="fas fa-tachometer-alt"></i>
+          </div>
+          <div *ngIf="authService.isAuthenticated() && authService.isAdmin()" class="sidebar-item" routerLink="/register" >
+            <i class="fas fa-user-plus"></i>
+          </div>
+          <div class="sidebar-item" (click)="logout()">
+            <i class="fas fa-sign-out-alt"></i>
+          </div>
+        </div>
+        <div class="main-content">
+          <router-outlet></router-outlet>
+        </div>
+      </div>
+    </div>
+    <div *ngIf="!isLoggedIn">
+      <router-outlet></router-outlet>
+    </div>
+  </div>

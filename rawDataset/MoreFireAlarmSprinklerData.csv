@@ -1,0 +1,637 @@
+﻿Enter Date,Address,Is there a fire alarm in this building?,Is this building sprinklered?,Are fire extinguishers fully charged?
+21/09/2021,75 Carol Road,Yes,No,Yes
+21/09/2021,125 Bayfield Street,Yes,Yes,Yes
+22/09/2021,500 Mapleview Drive W,Yes,Yes,Yes
+24/09/2021,1 Bernick dr,Yes,Yes,Yes
+27/09/2021,15 cheltenham road ,Yes,No,Yes
+27/09/2021,233 Blake street - Vancouver Place.  ,Yes,Yes,Yes
+27/09/2021,10 coulter street,Yes,No,Yes
+28/09/2021,414 Blake st,Yes,Yes,Yes
+29/09/2021,200 Collier Street,Yes,Yes,Yes
+29/09/2021,114 Anne st,Yes,Yes,Yes
+30/09/2021,17 Blake St. ,Yes,Yes,Yes
+30/09/2021,54 Koda street,Yes,Yes,Yes
+30/09/2021,329 Blake St,Yes,Yes,Yes
+04/10/2021,43 Ferndale Drive,Yes,Yes,Yes
+04/10/2021,5 Chef Lane,Yes,Yes,Yes
+04/10/2021,27 queen street,Yes,No,Yes
+04/10/2021,12 Heather Street,Yes,Yes,Yes
+05/10/2021,45 Ferndale,Yes,Yes,Yes
+05/10/2021,95 Clapperton st ,Yes,No,Yes
+05/10/2021,300 Essa,Yes,Yes,Yes
+06/10/2021,20 Koda,Yes,Yes,Yes
+06/10/2021,13 Cheltenham,Yes,Yes,Yes
+06/10/2021,291 Blake st,Yes,Yes,Yes
+07/10/2021,120 Bellfarm Rd,Yes,No,Yes
+07/10/2021,76 Ardagh ,Yes,No,Yes
+07/10/2021,17 Cheltenham,Yes,Yes,Yes
+07/10/2021,750 Big Bay Point,Yes,Yes,Yes
+12/10/2021,75 Amelia st,Yes,Yes,Yes
+12/10/2021,1 Blake st,Yes,Yes,Yes
+14/10/2021,7 Vancouver St,Yes,Yes,Yes
+18/10/2021,126 bell farm road,Yes,No,Yes
+18/10/2021,39 Ferndale Dr.,Yes,Yes,Yes
+18/10/2021,108 Collier,Yes,Yes,Yes
+18/10/2021,34 Johnson st,Yes,No,Yes
+20/10/2021,151 Steel Street,Yes,No,Yes
+20/10/2021,62 Little,Yes,No,Yes
+21/10/2021,5 Greenwich St.,Yes,Yes,Yes
+21/10/2021,6 bayfield st,Yes,Yes,Yes
+22/10/2021,66 carol road,Yes,No,Yes
+27/10/2021,2104 Line 6 North,Yes,Yes,Yes
+25/10/2021,96 Anne street,No,No,Yes
+26/10/2021,259 Dunlop St. ,Yes,Yes,Yes
+28/10/2021,147 Steel St.,Yes,No,Yes
+28/10/2021,7 greenwich,Yes,Yes,Yes
+28/10/2021,19 Queen St. ,Yes,No,Yes
+29/10/2021,108 burton avenue,Yes,No,Yes
+29/10/2021,240 Steel St.,Yes,No,Yes
+01/11/2021,90 Edgehill Drive,Yes,Yes,Yes
+01/11/2021,111 Sanford Street,Yes,No,Yes
+02/11/2021,29 queen street barrie,Yes,No,Yes
+02/11/2021,96 Ross Street,Yes,Yes,Yes
+02/10/2021, ,Yes,Yes,Yes
+02/11/2021,49 coulter st ,Yes,Yes,Yes
+04/11/2021,73 Carol rd,Yes,No,Yes
+05/11/2021,108 Anne Street North - A,Yes,Yes,Yes
+05/11/2021,236 Tiffin street,No,No,Yes
+09/11/2021,135 Wellington ,Yes,Yes,Yes
+09/11/2021,15 Vancouver ,Yes,Yes,Yes
+10/11/2021,143 Edgehill Drive,Yes,No,Yes
+11/11/2021,155 Edgehill Dr,Yes,No,Yes
+11/11/2021,131 Edgehill Dr,Yes,No,Yes
+11/11/2021,302 Essa rd,Yes,Yes,Yes
+15/11/2021,141 edghill drive,Yes,No,Yes
+15/11/2021,278 St Vincent street,Yes,No,Yes
+15/11/2021,171 Edgehill ,Yes,No,Yes
+15/11/2021,225 kozlov,Yes,Yes,Yes
+16/11/2021,51 Blake St.,Yes,No,Yes
+16/11/2021,42 Ferndale,Yes,Yes,Yes
+16/11/2021,147 Egdehill Drive,Yes,No,Yes
+16/11/2021,163 Edgehill Drive,Yes,No,Yes
+16/11/2021,179 Edgehill Drive,Yes,No,Yes
+17/11/2021,496 Young st.,Yes,No,Yes
+18/11/2021,12 royal parkside drive,Yes,No,Yes
+18/11/2021,304 Essa,Yes,Yes,Yes
+18/11/2021,159 Edgehill,Yes,No,Yes
+18/11/2021,40 Ferndale Rd S,Yes,Yes,Yes
+18/11/2021,2 Grove St,Yes,Yes,Yes
+22/11/2021,33 Ellen St.,Yes,Yes,Yes
+22/11/2021,339 Essa Road,Yes,Yes,Yes
+23/11/2021,151 Edgehill,Yes,No,Yes
+23/11/2021,44 Ferndale,Yes,Yes,Yes
+23/11/2021,167 Edgehill Drive,Yes,No,Yes
+23/11/2021,55 Blake Street,Yes,No,Yes
+23/11/2021,37 Ellen Street,Yes,Yes,Yes
+23/11/2021,86 Wellington St East,Yes,No,Yes
+24/11/2021,41 Ferndale ,Yes,Yes,Yes
+24/11/2021,21 kempenfelt Dr,Yes,Yes,Yes
+24/11/2021,108 Kempenfelt dr,Yes,No,Yes
+25/11/2021,306 Essa Rd,Yes,Yes,Yes
+26/11/2021,47 Blake st,Yes,No,Yes
+29/11/2021,260 Leacock Dr,Yes,Yes,Yes
+29/11/2021,339 Essa Rd unit B,Yes,No,Yes
+30/11/2021,1 Quail,Yes,No,Yes
+30/11/2021,262 Rose St. ,Yes,No,Yes
+30/11/2021,193 Edgehill dr,Yes,No,Yes
+30/11/2021,175 Edgehill ,Yes,No,Yes
+30/11/2021,183 Edgehill ,Yes,No,Yes
+29/11/2021,2 Albert st ,Yes,Yes,Yes
+02/12/2021,70 Blake,Yes,No,Yes
+02/12/2021,191 Edgehill Dr. ,Yes,Yes,No
+07/12/2021,41 Coulter,Yes,Yes,Yes
+07/12/2021,295 Cundles ,Yes,Yes,Yes
+07/12/2021,299 Cundles,Yes,Yes,Yes
+08/12/2021,98 Holgate,Yes,Yes,Yes
+08/12/2021,90 Holgate ,Yes,Yes,Yes
+08/12/2021,37 Peel,Yes,Yes,Yes
+08/12/2021,215 Dunlop St East,Yes,No,Yes
+10/12/2021,43 Coulter,Yes,Yes,Yes
+10/12/2021,39 Coulter,Yes,Yes,Yes
+16/12/2021,404 Veterans,Yes,No,Yes
+16/12/2021,408 Veterans,Yes,No,Yes
+16/12/2021,412 veterans ,Yes,No,Yes
+16/12/2021,416 Veterans,Yes,No,Yes
+17/12/2021,11 Cheltenham rd.,Yes,Yes,Yes
+17/12/2021,35 Blake Street,Yes,Yes,Yes
+17/12/2021,125 Wellington Ave. ,Yes,Yes,Yes
+17/12/2021,49 jacobs terrace,Yes,Yes,Yes
+17/12/2021,19 Cheltenham,Yes,Yes,Yes
+27/01/2022,101 Kozlov,Yes,No,Yes
+10/02/2022,12 kozlov street,Yes,Yes,Yes
+17/02/2022,18 Sophia street,Yes,Yes,Yes
+24/02/2022,371 king - Unit 1 & 2,,,
+24/02/2022,371 king unit 4,,,
+24/02/2002,371 king - Unit 6,,,
+24/02/2022,371 king - Unit 8 & 9 & 10,,,
+09/03/2022,190 Cundles Rd E - Unit 107,,,
+09/03/2022,190 Cundles Rd E - Unit 103,,,
+09/03/2022,190 Cundles Rd E - Unit 100B,,,
+09/03/2022,190 Cundles Rd E - Unit 100C,,,
+09/03/2022,190 Cundles Rd E - Unit 001,,,
+09/03/2022,190 Cundles Rd E - Unit 203,,,
+09/03/2022,190 Cundles Rd E - Unit 204,,,
+09/03/2022,190 Cundles Rd E - Unit 205 and 205  (b),,,
+15/03/2022,190 Cundles Rd E - Unit 301B,,,
+15/03/2022,190 Cundles Rd E - Unit 302,,,
+15/03/2022,190 Cundles Rd E - Unit 305,,,
+15/03/2022,190 Cundles Rd E - Unit 301A,,,
+15/03/2022,190 Cundles Rd E - Unit 307,,,
+15/03/2022,190 Cundles Rd E - Unit 310,,,
+15/03/2022,190 Cundles Rd E - Unit 303,,,
+09/03/2022,190 Cundles Rd E - Unit 105,,,
+09/03/2022,190 Cundles Rd E - Unit 101,,,
+09/03/2022,190 Cundles Rd E - Unit 102,,,
+09/03/2022,190 Cundles Rd E - Unit 103B,,,
+22/03/2022,11 Lakeside Terrace - Unit 101,,,
+22/03/2022,11 Lakeside Terrace - Unit 102,,,
+22/03/2022,11 Lakeside Terrace - Unit 106,,,
+22/03/2022,11 Lakeside Terrace - Unit LL1,,,
+22/03/2022,11 Lakeside terrace - Unit LL3,,,
+22/03/2022,11 Lakeside Terrace - Unit 501,,,
+22/03/2022,11 Lakeside Terrace - Unit 502,,,
+22/03/2022,11 Lakeside Terrace - Unit 402 a/b,,,
+22/03/2022,11 Lakeside Terrace - Unit 401,,,
+24/03/2022,136 Bayfield Street - 4th floor & Base Bldg,,,
+24/03/2022,136 Bayfield Street - 3rd floor,,,
+24/03/2022,136 Bayfield Street - 2nd floor,,,
+24/03/2022,136 Bayfield Street - 1st floor,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+*FPO Daer has this file*,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+28/06/2022,171 Collier St,Yes,Yes,Yes
+30/06/2022,2 Kozlov St,Yes,Yes,Yes
+12/07/2022,101 Georgian drive ,Yes,Yes,No
+14/07/2022,380 Duckworth Rd,Yes,Yes,No
+15/07/2022,111 Dambrosio,Yes,Yes,Yes
+08/08/2022,100 little ave,Yes,Yes,Yes
+31/08/2022,90 Little,Yes,Yes,Yes
+28/09/2022,75 Ellen,Yes,Yes,Yes
+17/11/2022,181 Collier St,Yes,Yes,Yes
+21/12/2022,25 Meadow Lane,Yes,No,Yes
+1/5/2023 0:00:00,37 Johnson,Yes,Yes,Yes
+08/02/2023,380 Essa road ,Yes,No,Yes
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+21/02/2023,76 Ardagh,Yes,No,Yes
+44978,15 Queen Street,,No,Yes
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+2/23/2023 0:00:00,140 &150 Dunlop st,Yes,Yes,Yes
+,,,,
+,,,,
+,,,,
+,,,,
+2/24/2023 0:00:00,363 Duckworth St,Yes,No,No
+24/02/2023,2 Toronto St. ,Yes,Yes,Yes
+,,,,
+,,,,
+2/24/2023 0:00:00,80 Grove st,Yes,No,Yes
+2/24/2023 0:00:00,118 St Vincent.,Yes,No,Yes
+,,,,
+,,,,
+24/02/2023,15 Maple Ave. ,Yes,Yes,Yes
+,,,,
+2/24/2023 0:00:00,170 Grove st. ,Yes,No,No
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+2/28/2023 0:00:00,37 ellen,Yes,Yes,Yes
+44985,33 Ellen,Yes,Yes,Yes
+3/1/2023 0:00:00,186 Grove St.,Yes,No,Yes
+,,,,
+,,,,
+,,,,
+,,,,
+3/3/2023 0:00:00,9 Queen Street,Yes,No,Yes
+,,,,
+3/4/2023 0:00:00,95 Clapperton,Yes,No,Yes
+44961,101 Clapperton,Yes,No,Yes
+,,,,
+,,,,
+,,,,
+44993,681 Yonge st,Yes,Yes,Yes
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+45007,131 Berczy St,Yes,No,Yes
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+23/03/2023,359 duckworth ,Yes,No,No
+,,,,
+1/14/2023 0:00:00,155 Dunlop st w,Yes,Yes,Yes
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+28/03/2023,144 Belfarm ,Yes,Yes,Yes
+28/03/2023,178 grove st,Yes,No,Yes
+28/03/2023,174 grove st,Yes,No,Yes
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+09/05/2023,59a Archbrown Rd,Yes,No,Yes
+09/04/2023,59 B Archbrown Rd,Yes,No,Yes
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+18/05/2023,100 dean Ave,Yes,Yes,Yes
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+, ,,,

@@ -1,0 +1,11 @@
+Code,Description
+A,Property Fires/Explosions
+B,Overpressure rupture/explosion - No Fire
+C,Pre Fire Conditions/No Fire
+D,Burning - Controlled
+E,False Fire Calls
+F,CO False Calls
+G,Public Hazard
+H,Rescue
+I,Medical/Resuscitator Call
+J,Other Response

@@ -1,0 +1,25 @@
+<div class="child-container">
+    <div class="card-model" *ngIf="predictions">
+    <h2>VAR</h2>
+    <div class="row-model">
+        <span class="label">Next emergency DA:</span>
+        <div class="predictions">
+          <span class="value">{{ predictions.da_predictions[0] }}</span>
+        </div>
+      </div>
+      <div class="row-model">
+        <span class="label">Type of emergency:</span>
+        <div class="predictions">
+          <span class="value">{{ predictions.type_predictions[0] }}</span>
+        </div>
+      </div>
+      <div class="row-model">
+        <span class="label">MAE DA:</span>
+        <span class="value">{{ predictions.accuracy_da }}</span>
+      </div>
+      <div class="row-model">
+        <span class="label">MAE Type:</span>
+        <span class="value">{{ predictions.accuracy_type }}</span>
+      </div>
+  </div>
+</div>

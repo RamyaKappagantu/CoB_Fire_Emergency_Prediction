@@ -1,0 +1,149 @@
+
+.app-container {
+    display: flex;
+    flex-direction: column;
+    height: 100vh;
+    width: 100vw;
+  }
+  
+  .content-container {
+    display: flex;
+    flex: 1;
+    margin-top: 5px; /* Gap between toolbar and content */
+  }
+    
+    .sidebar {
+      width: 50px;
+      background-color: #2f3b52;
+      display: flex;
+      flex-direction: column;
+      align-items: center;
+      padding-top: 20px;
+      margin-left: 10px;
+      box-sizing: border-box;
+      border-top-left-radius: 10px; /* Add rounded corners */
+      border-top-right-radius: 10px; /* Add rounded corners */
+      border-bottom-left-radius: 10px; /* Add rounded corners */
+      border-bottom-right-radius: 10px; /* Add rounded corners */
+    }
+    
+    .sidebar-item {
+      display: flex;
+      flex-direction: column;
+      align-items: center;
+      margin: 20px 0;
+      color: white;
+      cursor: pointer;
+    }
+    
+    .sidebar-item i {
+      font-size: 24px;
+    }  
+    
+    .sidebar-item span {
+      font-size: 12px;
+      margin-top: 5px;
+    }
+  
+    .main-content {
+      flex: 1;
+      position: relative;
+      overflow: hidden;
+    }
+  
+    .toolbar {
+      height: 60px;
+      background-color: #2f3b52;
+      color: white;
+      display: flex;
+      align-items: center;
+      justify-content: space-between;
+      padding: 0 20px;
+      margin-top: 10px;
+      margin-left: 10px;
+      margin-right: 10px;
+      border-top-left-radius: 10px; /* Add rounded corners */
+      border-top-right-radius: 10px; /* Add rounded corners */
+      border-bottom-left-radius: 10px; /* Add rounded corners */
+      border-bottom-right-radius: 10px; /* Add rounded corners */
+    }
+    
+    .toolbar-title {
+      font-size: 24px;
+      font-weight: bold;
+      color: white;
+      margin-right: auto;
+    }
+
+    .data-table {
+        width: 100%;
+        border-collapse: collapse;
+      }
+      
+      .data-table th, .data-table td {
+        border: 1px solid #ccc;
+        padding: 8px;
+        text-align: center;
+      }
+      .data-table th {
+        background-color: #f0f0f0;
+      }
+    
+      h1,
+      h2,
+      h3,
+      h4,
+      h5,
+      h6 {
+        margin: 8px 0;
+      }
+    
+      p {
+        margin: 0;
+      }
+    
+      .spacer {
+        flex: 1;
+      }
+    
+      .row_map {
+        display: flex;
+        flex-direction: row; /* Arrange children in a row */
+        justify-content: space-between;
+        width: 100%;
+        height: calc(100vh - 60px); /* Full height of the viewport minus the toolbar height */
+        box-sizing: border-box; /* Include padding and border in the element's total width and height */
+      }
+      
+      footer {
+        margin-top: 8px;
+        display: flex;
+        align-items: center;
+        line-height: 20px;
+      }
+    
+      footer a {
+        display: flex;
+        align-items: center;
+      }
+      .custom-add-user{
+        margin: auto;
+        width: 100px;
+      }
+    
+      /* Example for icons, you need to replace these with actual icon fonts or images */
+      .icon-home::before {
+        content: "\1F3E0"; /* Unicode character for home icon */
+      }
+
+    .icon-dashboard::before {
+      content: "\1F4C8"; /* Placeholder for a dashboard icon */
+    }
+    
+    .icon-logout::before {
+      content: "\1F511"; /* Placeholder for a logout icon */
+    }
+    
+    .icon-add-user::before {
+      content: "\1F464"; /* Placeholder for an add user icon */
+    }

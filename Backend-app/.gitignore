@@ -1,0 +1,12 @@
+# Ignore folders
+.idea/
+.ipynb_checkpoints/
+# Ignore virtual environment folder
+CBFPenv/
+CBFPLatestVenv/
+__pycache__/
+newCBFP/
+venv/
+migrations/
+.DS_Store
+lda_000b21a_e

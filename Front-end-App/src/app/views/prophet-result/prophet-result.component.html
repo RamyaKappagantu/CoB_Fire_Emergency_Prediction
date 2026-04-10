@@ -1,0 +1,24 @@
+<div *ngIf="predictionData" class="child-container">
+  <div class="card-model">
+    <h2>Prophet</h2>
+    <div class="row-model">
+      <span class="label">Next emergency DA:</span>
+      <span class="value">{{ predictionData.nextDauid }}</span>
+    </div>
+    <div class="row-model">
+      <span class="label">Type of emergency:</span>
+      <span class="value">{{ predictionData.nextCategory }}</span>
+    </div>
+    <div class="row-model">
+      <span class="label">Accuracy DA:</span>
+      <span class="value">{{ predictionData.dauidDirectionalAccuracy }}</span>
+    </div>
+    <div class="row-model">
+      <span class="label">Accuracy Type:</span>
+      <span class="value">{{ predictionData.categoryAccuracy }}</span>
+    </div>
+  </div>
+</div>
+<div *ngIf="!predictionData">
+  Loading data...
+</div>

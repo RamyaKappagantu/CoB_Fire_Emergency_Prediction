@@ -1,0 +1,19 @@
+
+<div class="parent-container">
+  <app-date-picker class="date-picker" (dauidChanged)="onDauidChanged($event)" (predictionDatechanged) = "onPredictionDateChanged($event)"></app-date-picker>
+  <div class="row_map">
+  <div class="child-cards-container">
+    <app-lstm-result (dauidChanged)="onDauidChanged($event)" (predictionDatechanged) = "onPredictionDateChanged($event)"></app-lstm-result>
+    <app-prophet-result></app-prophet-result>
+    <app-var-result></app-var-result>
+  </div>
+  <div class="map-container">
+    <app-map-view [daId]="dauid" [newPredictionDate]="predictionDate"></app-map-view>
+  </div>
+  </div>
+  <!-- Upload Button and Input -->
+  <!-- <div class="upload-container">
+    <input type="file" id="fileInput" (change)="onFileChange($event)" accept=".csv, .xlsx" style="display: none;" />
+    <button (click)="triggerFileInput()">Upload Test Data</button>
+  </div>
+</div> -->

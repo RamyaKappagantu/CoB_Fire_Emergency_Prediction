@@ -1,0 +1,23 @@
+.date-picker-container {
+    display: flex;
+    align-items: center; /* Align items vertically in the center */
+    gap: 10px;
+  }
+  
+  .date-picker-field {
+    flex: 1; /* Allow the date picker field to take up the remaining space */
+    display: flex;
+    align-items: center;
+  }
+  
+  .search-button {
+    height: 56px; /* Set the height to match the mat-form-field height */
+    display: flex;
+    align-items: center;
+    justify-content: center;
+  }
+  
+  mat-icon {
+    font-size: 24px;
+  }
+  
